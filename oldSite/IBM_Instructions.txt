@@ -1,0 +1,6 @@
+This contains my old Portfolio Code. This was built using the Code Igniter Framework.
+
+To find the CSS files enter the folder oldSite->CSS
+To see the HTML pages oldSite->application->views (note the are the .php files)
+To see the Javascript oldSite->js
+						
